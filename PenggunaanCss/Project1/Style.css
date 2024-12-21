@@ -1,0 +1,44 @@
+*{
+    font-family: "Montserrat";
+}
+
+/* Teks */
+
+h1 {
+    font-weight: 700;
+    font-size: 24px;
+    margin: 0 0 16px 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+p{
+    color : #979797;
+    margin: 0 0 16px 0;
+}
+
+/* Section */
+
+section {
+    /* background-image: url("https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989_1280.jpg"); */
+    background-size: cover;
+}
+
+/* Background */
+
+.bg-index-atas {
+    background-color: rgb(155, 179, 52);
+    color: yellow;
+    padding: 10px 18px;
+    margin-left: 5px;
+    border: 1px solid white;
+}
+
+.bg-index-bawah {
+    background-color: beige;
+    color: black;
+    padding: 5px 8px;
+}
