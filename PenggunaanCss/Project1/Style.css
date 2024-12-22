@@ -2,6 +2,10 @@
     font-family: "Montserrat";
 }
 
+nav > a {
+    color:#FFC108;
+}
+
 /* Teks */
 
 h1 {
